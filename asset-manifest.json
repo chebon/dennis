@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Dennis/static/css/main.3f95a0e7.chunk.css",
+    "main.js": "/Dennis/static/js/main.24f4ec30.chunk.js",
+    "main.js.map": "/Dennis/static/js/main.24f4ec30.chunk.js.map",
+    "runtime-main.js": "/Dennis/static/js/runtime-main.eec1924f.js",
+    "runtime-main.js.map": "/Dennis/static/js/runtime-main.eec1924f.js.map",
+    "static/js/2.888b6f9c.chunk.js": "/Dennis/static/js/2.888b6f9c.chunk.js",
+    "static/js/2.888b6f9c.chunk.js.map": "/Dennis/static/js/2.888b6f9c.chunk.js.map",
+    "index.html": "/Dennis/index.html",
+    "static/css/main.3f95a0e7.chunk.css.map": "/Dennis/static/css/main.3f95a0e7.chunk.css.map",
+    "static/js/2.888b6f9c.chunk.js.LICENSE.txt": "/Dennis/static/js/2.888b6f9c.chunk.js.LICENSE.txt",
+    "static/media/Navigation.css": "/Dennis/static/media/Agustina.320d237b.otf",
+    "static/media/Emed.a0c8923f.png": "/Dennis/static/media/Emed.a0c8923f.png",
+    "static/media/font-awesome.min.css": "/Dennis/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/nucleo.css": "/Dennis/static/media/nucleo-icons.d6a66724.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eec1924f.js",
+    "static/js/2.888b6f9c.chunk.js",
+    "static/css/main.3f95a0e7.chunk.css",
+    "static/js/main.24f4ec30.chunk.js"
+  ]
+}
