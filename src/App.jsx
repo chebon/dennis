@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 
 import Navigation from "./components/Navigation";
 import Greetings from "./containers/Greetings";
@@ -12,7 +12,7 @@ import Feedbacks from "./containers/Feedbacks";
 
 const App = () => {
 	return (
-		<BrowserRouter>
+		<HashRouter base="/">
 			<Switch>
 				<Route
 					path="/"
@@ -30,7 +30,7 @@ const App = () => {
 					)}
 				/>
 			</Switch>
-		</BrowserRouter>
+		</HashRouter>
 	);
 };
 
