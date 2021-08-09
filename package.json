@@ -1,11 +1,11 @@
 {
-	"homepage": "https://chebon.github.io/Dennis/",
+	"homepage": ".",
 	"name": "developer-portfolio",
 	"version": "1.0.0",
 	"private": false,
 	"description": "Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software developer.",
 	"main": "index.js",
-	"repository": "https://github.com/chebon/Dennis.git",
+	"repository": "https://github.com/chebon/dennis.git",
 	"author": "chebon <59178380+1chebon100@users.noreply.github.com>",
 	"license": "MIT",
 	"dependencies": {
