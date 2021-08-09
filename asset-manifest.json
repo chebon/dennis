@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.a8f9e492.chunk.css",
-    "main.js": "./static/js/main.24f4ec30.chunk.js",
-    "main.js.map": "./static/js/main.24f4ec30.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.a5c92cbd.js",
-    "runtime-main.js.map": "./static/js/runtime-main.a5c92cbd.js.map",
-    "static/js/2.888b6f9c.chunk.js": "./static/js/2.888b6f9c.chunk.js",
-    "static/js/2.888b6f9c.chunk.js.map": "./static/js/2.888b6f9c.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.a8f9e492.chunk.css.map": "./static/css/main.a8f9e492.chunk.css.map",
-    "static/js/2.888b6f9c.chunk.js.LICENSE.txt": "./static/js/2.888b6f9c.chunk.js.LICENSE.txt",
-    "static/media/Navigation.css": "./static/media/Agustina.320d237b.otf",
-    "static/media/Emed.a0c8923f.png": "./static/media/Emed.a0c8923f.png",
-    "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.f691f37e.woff",
-    "static/media/nucleo.css": "./static/media/nucleo-icons.d6a66724.ttf"
+    "main.css": "/dennis/static/css/main.f2188e18.chunk.css",
+    "main.js": "/dennis/static/js/main.24f4ec30.chunk.js",
+    "main.js.map": "/dennis/static/js/main.24f4ec30.chunk.js.map",
+    "runtime-main.js": "/dennis/static/js/runtime-main.eccc4234.js",
+    "runtime-main.js.map": "/dennis/static/js/runtime-main.eccc4234.js.map",
+    "static/js/2.888b6f9c.chunk.js": "/dennis/static/js/2.888b6f9c.chunk.js",
+    "static/js/2.888b6f9c.chunk.js.map": "/dennis/static/js/2.888b6f9c.chunk.js.map",
+    "index.html": "/dennis/index.html",
+    "static/css/main.f2188e18.chunk.css.map": "/dennis/static/css/main.f2188e18.chunk.css.map",
+    "static/js/2.888b6f9c.chunk.js.LICENSE.txt": "/dennis/static/js/2.888b6f9c.chunk.js.LICENSE.txt",
+    "static/media/Navigation.css": "/dennis/static/media/Agustina.320d237b.otf",
+    "static/media/Emed.a0c8923f.png": "/dennis/static/media/Emed.a0c8923f.png",
+    "static/media/font-awesome.min.css": "/dennis/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/nucleo.css": "/dennis/static/media/nucleo-icons.d6a66724.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5c92cbd.js",
+    "static/js/runtime-main.eccc4234.js",
     "static/js/2.888b6f9c.chunk.js",
-    "static/css/main.a8f9e492.chunk.css",
+    "static/css/main.f2188e18.chunk.css",
     "static/js/main.24f4ec30.chunk.js"
   ]
 }
